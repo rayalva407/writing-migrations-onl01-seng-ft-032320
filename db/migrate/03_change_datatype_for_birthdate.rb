@@ -1,5 +1,5 @@
 class ChangeDatatypeForBirthdate
   def change
-    change_column(students, )
+    change_column(student, birthdate, datetime)
   end
 end
