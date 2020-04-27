@@ -1,5 +1,5 @@
 class AddGradeAndBirthdateToStudents
   def change
-    add_column
+    add_column :grade
   end
 end
